@@ -1,5 +1,7 @@
 # AdventureWorks for Postgres
 
+[![DOI](https://zenodo.org/badge/1154169636.svg)](https://doi.org/10.5281/zenodo.18585941)
+
 This project provides the scripts necessary to set up the OLTP part of the go-to database used in
 training classes and for sample apps on the Microsoft stack. The result is 68 tables containing HR,
 sales, product, and purchasing data organized across 5 schemas. It represents a fictitious bicycle
